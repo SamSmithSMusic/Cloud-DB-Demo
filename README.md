@@ -2,7 +2,7 @@
 
 Howdy! I wrote this little demo to help mold out the process for accessing and using a cloud database should function. Hopefully it will help assist both you and I in future, larger projects!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sr5JNyjqr1U)
 
 # Cloud Database
 

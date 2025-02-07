@@ -15,6 +15,8 @@ async function main() {
   try {
     await client.connect();
     
+    // RUN TESTS
+
     // Creates a listing with the year 2027
     // Expected output: New listing created with the following id: ____________
     console.log("\nCreating a new listing...");
